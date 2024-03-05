@@ -1,4 +1,4 @@
-package com.example.test;
+package com.example.intro;
 
 
 public record Employee(String name, int age) {}

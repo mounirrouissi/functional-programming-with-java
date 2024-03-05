@@ -1,4 +1,4 @@
-package com.example.test;
+package com.example.intro;
 
 import java.util.stream.Stream;
 
